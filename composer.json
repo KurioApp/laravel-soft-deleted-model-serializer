@@ -1,0 +1,17 @@
+{
+    "name": "nazieb/laravel-soft-deleted-model-serializer",
+    "autoload" : {
+        "psr-4" : {
+            "Nazieb\\Queue\\": "src"
+        }
+    },
+    "require": {
+        "illuminate/queue": "^5.2"
+    },
+    "authors": [
+        {
+            "name": "Ainun Nazieb",
+            "email": "ainun@nazieb.com"
+        }
+    ]
+}
