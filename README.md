@@ -1,0 +1,1 @@
+# laravel-soft-deleted-model-serializer
